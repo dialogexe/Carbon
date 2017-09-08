@@ -1,5 +1,5 @@
 {
-    "name": "nesbot/carbon",
+    "name": "dialogexe/carbon",
     "type": "library",
     "description": "A simple API extension for DateTime.",
     "keywords": [
